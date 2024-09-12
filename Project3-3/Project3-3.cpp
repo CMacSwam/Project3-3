@@ -1,3 +1,11 @@
+/*
+* File: P3-3
+* Author: Chase McCluskey
+* Date: 9/12/2024
+* 
+* Description: Telling Mrs.Tweedy how many cartons and many eggs leftover she is going to have
+*/
+
 #include <iostream>
 #include <string>
 
